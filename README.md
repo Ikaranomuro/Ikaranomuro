@@ -7,7 +7,7 @@ Você pode me encontrar no LinkedIn ou entrar em contato comigo por e-mail:
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-oliveira-fonseca/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVdGVjtfNPHwsbJXDCwkkWfmQNWsbVhhkDSTrxPKVxxlgLCHwrKThFmxXQFBzxCjGFBzl)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVdGVjtfNPHwsbJXDCwkkWfmQNWsbVhhkDSTrxPKVxxlgLCHwrKThFmxXQFBzxCjGFBzl](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVdGVjtfNPHwsbJXDCwkkWfmQNWsbVhhkDSTrxPKVxxlgLCHwrKThFmxXQFBzxCjGFBzl))
 
 
 
