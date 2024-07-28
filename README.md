@@ -1,11 +1,9 @@
-### Olá, meu nome é Iago Oliveira 👋
-Muito prazer! Sou apaixonado por tecnologia e estou buscando conhecimentos na área para me consolidar no mercado. Atualmente tenho conhecimento da base de desenvolvimento, e estou trilhando o caminho de Desenvolvimento Front-End para fazer parte do mercado, ainda estou no começo dessa trajetoria, mas sempre me esforçando para que eu realize esse sonho! 💻
+### Olá! Meu nome é Iago Oliveira 👋
+É um prazer conhecê-lo(a)! Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos para adentrar no mercado de programação. Tenho uma base sólida em desenvolvimento e atualmente estou focado me especializar em Desenvolvimento Front-End. Ainda estou no início dessa jornada, mas estou determinado a realizar meu sonho de trabalhar na área! 💻
 
-Sobre mim, gosto de jogar, fazer exercicios físicos e ter bastante contato social 😎
+Um pouco sobre mim: adoro jogar, praticar exercícios físicos e ter uma vida social ativa 😎. Sou muito curioso e sempre disposto a aprender. Acredito que os desafios são essenciais para o nosso crescimento, e a programação é a área perfeita para quem busca desafios diários! 📚
 
-Sou bastante curioso e disposto a aprender, desafio é uma parte importante para evolução, e qual área senão programação para termos desafios diários! 📚
-
-Abaixo meu Linkedin e e-mail para contato:
+Você pode me encontrar no LinkedIn ou entrar em contato comigo por e-mail:
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-oliveira-fonseca/)
